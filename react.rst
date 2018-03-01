@@ -145,8 +145,40 @@ PDDL is a representation language with similar syntax to Lisp:
 Introducing |ReAct|
 -------------------
 
-Slide
-~~~~~
+Advantages
+~~~~~~~~~~
+
+1. A new educational tool for AI planning of robotics class
+2. An effective way to combine high level representation and low level control with perception aspects
+3. Represent dynamic domains generically
+4. Embed continuous geometric and temporal reasoning in discrete task planning
+5. Solve planning problems using various planners/reasoners
+
+Automated Reasoning with ReAct!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: graphics/sat-cplus.jpg
+   :width: 100%
+
+Automated Reasoning with ReAct!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: graphics/solving.jpg
+   :width: 100%
+
+Automated Reasoning with ReAct!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. If the user chooses a SAT solver, |ReAct| automatically transforms the causal
+   laws into clauses
+2. Similarly, if the user chooses an ASP solver, |ReAct| automatically
+   transforms the causal laws into an ASP program
+
+Hybrid Planning with ReAct!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: graphics/location.jpg
+   :width: 100%
 
 Evaluation and Results
 ----------------------
@@ -186,3 +218,8 @@ Limitations
 * Worse yet, we could not find the authors' source code, even after Emailing
   the authors, making the results impossible to reproduce entirely.
 
+Questions
+---------
+
+Questions
+~~~~~~~~~
