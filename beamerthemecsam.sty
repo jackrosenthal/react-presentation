@@ -8,13 +8,13 @@
 \definecolor{csred}{HTML}{D2492A}
 \definecolor{csgrey}{HTML}{D9D9D9}
 
-\usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{mathspec}
+%\usepackage{amsmath}
+%\usepackage{amssymb}
+\usepackage{fontspec}
 
 \newfontfamily\headingfont[UprightFont={* Medium},BoldFont={* Bold}]{Gotham}
 %\setmainfont{Fira Sans}
-\setmathsfont{Latin Modern Math}
+%\setmathsfont{Latin Modern Math}
 \setsansfont{TeX Gyre Heros}
 \setmonofont{Iosevka Term}
 \setbeamerfont*{frametitle}{size=\Large,family=\headingfont}
@@ -42,7 +42,7 @@
 \colorbox{csred}{\makebox[0.9\paperwidth]{}}}
 \resizebox{\paperwidth}{!}{%
 \colorbox{csgrey}{\begin{minipage}{0.5\paperwidth}
-\textcolor{csblue}{\headingfont\bfseries\Large ReAct!}
+\textcolor{csblue}{\headingfont\bfseries\Large \textsc{ReAct!}}
 \end{minipage}\begin{minipage}{0.5\paperwidth}
 \flushright\includegraphics[height=0.45cm]{csam.pdf}
 \end{minipage}}}%
