@@ -6,6 +6,12 @@
 
 .. |ReAct| replace:: ReAct!
 
+Background
+----------
+
+Slide
+~~~~~
+
 Problem Description
 -------------------
 
