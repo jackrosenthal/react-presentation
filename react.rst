@@ -41,6 +41,9 @@ History
        .. figure:: graphics/robot.jpg
           :width: 120pt
 
+Problem Description
+-------------------
+
 Challenge in Robotics Education
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -56,16 +59,14 @@ Challenge in Robotics Education
   * Change in dynamic environment
   * Background knowledge of low level control robots
 
-Problem Description
--------------------
-
-
 Problem Statement
 ~~~~~~~~~~~~~~~~~
-* Teaching AI planning concepts to a group of students with heterogeneous background is challenging and time consuming. 
-* Cognitive robotics course should teach students fundamental AI planning concepts (e.g. hybrid planning) and how to apply them rather than going into implementation details. 
+* Teaching AI planning concepts to a group of students with heterogeneous
+  background is challenging and time consuming.
+* Cognitive robotics course should teach students fundamental AI planning
+  concepts (e.g., hybrid planning) and how to apply them rather than going into
+  implementation details.
 * Create an interactive and educational tool to better teach students.
-
 
 Related Works
 -------------
