@@ -17,8 +17,8 @@ History
 ~~~~~~~
 
 .. figure:: graphics/ai.png
-   :scale: 100%
-   
+   :width: 100%
+
    The birth of Artificial Intelligence
 
 History
@@ -29,22 +29,23 @@ History
     .. beamer-column::
        :width: 0.7
 
-        * AI Planning concepts (e.g. hybrid planning) are still new to the robotics field due to recent incresing interest in service robotics application.
-        * Unfamiliar to various robotics researchers/students who rarely have interdisciplinary backgrounds.
+       * AI Planning concepts (e.g., hybrid planning) are still new to the
+         robotics field due to recent incresing interest in service robotics
+         application.
+       * Unfamiliar to various robotics researchers/students who rarely have
+         interdisciplinary backgrounds.
 
     .. beamer-column::
        :width: 0.3
 
-       .. figure:: graphics/robot.png
+       .. figure:: graphics/robot.jpg
           :width: 120pt
-
-
 
 Challenge in Robotics Education
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Robotics education curricula are being modified to include AI planning topics.
-* Cognitive Robotics Course (Dr. Esra Erdem @ Sabanci University)
+* Cognitive Robotics Course (Dr. Esra Erdem at Sabanci University)
 
   * Give robotics/software agents with higher-level cognitive function + reasoning
   * e.g., goals, perception, actions, mental states of other agents
@@ -53,10 +54,7 @@ Challenge in Robotics Education
 
   * AI Planning and Reasoning
   * Change in dynamic environment
-  * Background knowledge of low level control robots  
-
-
-~~~~~
+  * Background knowledge of low level control robots
 
 Problem Description
 -------------------
