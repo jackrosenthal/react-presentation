@@ -108,6 +108,38 @@ Slide
 Evaluation and Results
 ----------------------
 
-Slide
-~~~~~
+Use in CS 506
+~~~~~~~~~~~~~
+
+Students were given a problem which required a formalized domain and hybrid
+planning, such as the problem presented below:
+
+1. Model a housekeeping domain
+2. Implement feasibility checks in the domain description for hybrid planning
+3. Provide an evaluation and description
+
+Evaluation was conducted on two classes: 9 students which used |ReAct|, and 9
+students which did not use |ReAct|.
+
+Results
+~~~~~~~
+
+For the students who did not use react |ReAct|, none of them completed their
+reports on time, and only 4 students eventually got a successful project once
+given an extension.
+
+Using |ReAct|, all 8 of the 9 students got the problem completed on time, all
+successful.
+
+.. admonition:: Additional Evaluation
+
+    Additional (survey based) evaluations were conducted. See the paper for
+    more details.
+
+Limitations
+~~~~~~~~~~~
+
+* Given the educational evaluation, results would be hard to reproduce.
+* Worse yet, we could not find the authors' source code, even after Emailing
+  the authors, making the results impossible to reproduce entirely.
 
